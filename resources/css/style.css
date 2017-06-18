@@ -235,6 +235,8 @@ header .mobile {
   height: 65%;
   margin: 0 auto;
 }
+img {max-width: 100%; height: auto;
+}
 
 .feature h2 {
   padding-bottom: .5rem;
@@ -304,6 +306,8 @@ header .mobile {
   max-width: 100%;
   padding: 0 1%;
   display: flex;
+  margin-top: 80px;
+  margin-bottom: 64px;
 }
 
 @media only screen and (max-width: 760px) {
